@@ -152,4 +152,4 @@ This project follows SOLID principles:
 
 ## License
 
-ISC
+MIT
