@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "youtube-video-summarize": {
+      "command": "node",
+      "args": [
+        "D:\\Iavar\\AI\\MCP Servers\\web\\youtube-video-summarize\\start-server.cjs"
+      ],
+      "env": {
+        "MAX_VIDEO_LENGTH": "60",
+        "DEFAULT_SUMMARIZER": "advanced"
+      }
+    }
+  }
+}
